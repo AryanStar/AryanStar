@@ -1,5 +1,5 @@
 ### 👨🏻‍💻 Everyone Tell me ArLixx...
-![ArLixx](https://github.com/AryanStar/AryanStar/blob/main/ArlixxBanner.png)
+![ArLixx](https://github.com/AryanStar/AryanStar/blob/main/ArLixx.png)
 
 - Telegram: https://t.me/ArLixx
 
