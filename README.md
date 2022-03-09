@@ -1,5 +1,9 @@
-### Hi there 👋
+### 👨🏻‍💻 Everyone Tell me ArLixx...
+![ArLixx](https://github.com/AryanStar/AryanStar/blob/main/ArlixxBanner.png)
 
+- Telegram: https://t.me/ArLixx
+
+- Instagram: https://instagram.com/aryan.rsh
 <!--
 **AryanStar/AryanStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
